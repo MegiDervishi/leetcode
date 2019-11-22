@@ -1,5 +1,5 @@
-# <img src= "img/logo.png" width="300">
-
+# <img src= "img/logo.png" width="250" align= "center"> Solutions
+  
 My solutions to LeetCode problems.
 
 | #  | Title | Mysolution | Difficulty |
