@@ -1,3 +1,4 @@
+# O(n) time complexity
 class Solution:
     def hIndex(self, citations: List[int]) -> int:
         n = len(citations)
