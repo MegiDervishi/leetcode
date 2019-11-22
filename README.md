@@ -1,4 +1,4 @@
-# LeetCode
+# <img src= "img/logo.png" width="300">
 
 My solutions to LeetCode problems.
 
